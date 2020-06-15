@@ -7,5 +7,5 @@
 #### 1.[Apache Kafka学习笔记](https://ex34toway.github.io/bigdata/kafka)
 
 ### |  数据库学习
-#### 1.[PostgreSQL源码学习](https://github.com/ljianshu/database/postgresql)
+#### 1.[PostgreSQL源码学习](https://ex34toway.github.io/database/postgresql)
 
